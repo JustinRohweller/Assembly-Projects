@@ -1,0 +1,6 @@
+﻿  Assembling Rohweller_340_Final.asm...
+Rohweller_340_Final.asm(33): error A2071: initializer magnitude too large for specified size
+Rohweller_340_Final.asm(33): error A2006: undefined symbol : MULT_7_3Rohweller_340_Final.asm(43) : error A2071:initializer magnitude too large for specified size
+Rohweller_340_Final.asm(43): error A2008: syntax error : ptrRohweller_340_Final.asm(65) : error A2071:initializer magnitude too large for specified size
+Rohweller_340_Final.asm(65): fatal error A1010: unmatched block nesting : MU
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Sg /Zi /Fo"Debug\Rohweller_340_Final.obj" /Fl"Project.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /TaRohweller_340_Final.asm" exited with code 1.
